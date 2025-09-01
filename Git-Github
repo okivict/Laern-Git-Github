@@ -1,0 +1,23 @@
+-Git (local)
+VCS (version control system) nyimpen snapshot repo
+nyimpen histori perubahan commit.
+checkout (rollback ke perubahan sebelumnya)
+tiap commit punya hash
+bisa bikin brach baru (tidak menggangu main commit as a merge)
+
+-GitHub (Public)
+bisa push/pull commit ke dari git ke GitHub tapi harus bisa remote dari sumber repo (clone repo)
+workflow (pull > edit > push) 
+
+-Summary
+repo (folder)
+commit (snapshot dari repo)
+hash (unique code dari commit)
+checkout (rollback)
+branch (cabang commit)
+merge (menyatukan branch)
+remote (sumber repo, bisa gunain github)
+clone (copy repo dari remote)
+push/pull (kirim dan ambil commit dari repo)
+
+
