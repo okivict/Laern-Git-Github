@@ -19,4 +19,6 @@ remote (sumber repo, bisa gunain github)
 clone (copy repo dari remote)
 push/pull (kirim dan ambil commit dari repo)
 
+Create new branch dengan file utama
+
 
