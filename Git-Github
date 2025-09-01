@@ -10,7 +10,6 @@ bisa push/pull commit ke dari git ke GitHub tapi harus bisa remote dari sumber r
 workflow (pull > edit > push) 
 
 -Summary
-repo (folder)
 commit (snapshot dari repo)
 hash (unique code dari commit)
 checkout (rollback)
