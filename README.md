@@ -1,1 +1,1 @@
-# Laearn-Git-Github
+# Learn-Git-Github
