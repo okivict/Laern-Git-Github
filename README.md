@@ -1,2 +1,2 @@
 # Learn-Git-Github
-progress belajar git dan github
+Repo progress belajar git dan github
